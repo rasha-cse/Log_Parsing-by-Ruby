@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-16" standalone="no"?>
+<Assessments>
+   <Assessment archived="False" assigned="6667" assignedLoginId="ddusseau" dateUpdated="6/24/2016 9:01:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="381430" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:11:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>ddusseau</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>330094</sis_track_num>
+         <sis_completed_dt>4/9/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>May</sis_cl_last_nm>
+         <sis_cl_first_nm>Cynthia</sis_cl_first_nm>
+         <sis_cl_addr_line1>1846 15th St S</sis_cl_addr_line1>
+         <sis_cl_city>Fargo</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58103</sis_cl_zip>
+         <sis_cl_medicaidNum>330094</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>2/8/1997 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Deb  Dusseau</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Deb.Dusseau@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S Coteau, Ste 100</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services</sis_sup1_name>
+         <sis_res1_firstn>Kelly</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Roxanne</sis_res2_firstn>
+         <sis_res2_reln>Parent</sis_res2_reln>
+         <sis_cl_cou>Cass</sis_cl_cou>
+         <sis_res1_lastn>Cooper</sis_res1_lastn>
+         <sis_res2_lastn>May</sis_res2_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_entry_firstn>Deb</sis_entry_firstn>
+         <sis_entry_lastn>Dusseau</sis_entry_lastn>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>3</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>12:45:00</sis_startTime>
+         <sis_endTime>14:06:00</sis_endTime>
+         <Prof1_Notes>The assessor met Cindy but she did not participate in the interview.</Prof1_Notes>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="6667" assignedLoginId="ddusseau" dateUpdated="6/24/2016 8:50:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="381697" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 8:52:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>ddusseau</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>111622</sis_track_num>
+         <sis_completed_dt>4/10/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Fandrich</sis_cl_last_nm>
+         <sis_cl_first_nm>Dwight</sis_cl_first_nm>
+         <sis_cl_addr_line1>2525 N Broadway, Apt 710</sis_cl_addr_line1>
+         <sis_cl_city>Fargo</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58102</sis_cl_zip>
+         <sis_cl_dob_dt>12/18/1953 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Deb  Dusseau</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Deb.Dusseau@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S Coteau, Ste 100</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services</sis_sup1_name>
+         <sis_res1_firstn>Cassandra</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Erik</sis_res2_firstn>
+         <sis_res2_reln>Direct Support Staff</sis_res2_reln>
+         <sis_cl_cou>Cass</sis_cl_cou>
+         <sis_res1_lastn>Schroeder</sis_res1_lastn>
+         <sis_res2_lastn>Hansen</sis_res2_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_entry_firstn>Deb </sis_entry_firstn>
+         <sis_entry_lastn>Dusseau</sis_entry_lastn>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>12:30:00</sis_startTime>
+         <sis_endTime>14:00:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8007" assignedLoginId="mharing" dateUpdated="6/24/2016 9:03:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="381739" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:12:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mharing</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>244712</sis_track_num>
+         <sis_completed_dt>4/7/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Snead</sis_cl_last_nm>
+         <sis_cl_first_nm>Jon</sis_cl_first_nm>
+         <sis_cl_addr_line1>1006 Oak Place</sis_cl_addr_line1>
+         <sis_cl_city>West Fargo</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58078</sis_cl_zip>
+         <sis_cl_medicaidNum>244712</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>8/5/1991 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mike  Haring</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>The Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Mike.Haring@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau St.</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Easter Seals Goodwill ND, Inc.</sis_sup1_name>
+         <sis_sup1_reln>Service prov.</sis_sup1_reln>
+         <sis_res1_firstn>Gail</sis_res1_firstn>
+         <sis_res1_reln>Parent</sis_res1_reln>
+         <sis_res2_firstn>Michael</sis_res2_firstn>
+         <sis_res2_reln>Direct Support Staff</sis_res2_reln>
+         <sis_cl_cou>Cass</sis_cl_cou>
+         <sis_sup1_phone>7012379908</sis_sup1_phone>
+         <sis_res1_lastn>Snead</sis_res1_lastn>
+         <sis_res2_lastn>Graff</sis_res2_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_entry_firstn>Mike</sis_entry_firstn>
+         <sis_entry_lastn>Haring</sis_entry_lastn>
+         <sis_cl_phone>7017300352</sis_cl_phone>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>2</sis_cl_attend>
+         <sis_startTime>18:30:00</sis_startTime>
+         <sis_endTime>21:30:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8007" assignedLoginId="mharing" dateUpdated="6/24/2016 9:03:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="381776" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:13:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mharing</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>340489</sis_track_num>
+         <sis_completed_dt>4/9/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Porter</sis_cl_last_nm>
+         <sis_cl_first_nm>Jared</sis_cl_first_nm>
+         <sis_cl_middle_nm>A</sis_cl_middle_nm>
+         <sis_cl_addr_line1>111 University Dr.</sis_cl_addr_line1>
+         <sis_cl_city>Fargo</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58102</sis_cl_zip>
+         <sis_cl_medicaidNum>340489</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>5/31/1994 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mike  Haring</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>The Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Mike.Haring@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau St.</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services, Inc.</sis_sup1_name>
+         <sis_sup1_reln>Service prov.</sis_sup1_reln>
+         <sis_res1_firstn>Jared</sis_res1_firstn>
+         <sis_res1_reln>Self</sis_res1_reln>
+         <sis_res2_firstn>Nick</sis_res2_firstn>
+         <sis_res2_reln>Service Coordinator or case manager</sis_res2_reln>
+         <sis_cl_cou>Cass</sis_cl_cou>
+         <sis_sup1_phone>7012323133</sis_sup1_phone>
+         <sis_res1_lastn>Porter</sis_res1_lastn>
+         <sis_res2_lastn>Prudhomme</sis_res2_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_entry_firstn>Mike</sis_entry_firstn>
+         <sis_entry_lastn>Haring</sis_entry_lastn>
+         <sis_cl_phone>7012323133</sis_cl_phone>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>10:00:00</sis_startTime>
+         <sis_endTime>12:15:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="6308" assignedLoginId="BSmith" dateUpdated="6/24/2016 9:04:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="384387" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:13:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>BSmith</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_res4_firstn>Miriam</sis_res4_firstn>
+         <sis_res4_reln>Direct Support Staff</sis_res4_reln>
+         <sis_res4_lastn>Mohamed</sis_res4_lastn>
+         <sis_track_num>583241</sis_track_num>
+         <sis_completed_dt>4/15/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Yonan</sis_cl_last_nm>
+         <sis_cl_first_nm>Basima</sis_cl_first_nm>
+         <sis_cl_addr_line1>1602 47th St. S. #102</sis_cl_addr_line1>
+         <sis_cl_city>Fargo</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58102</sis_cl_zip>
+         <sis_cl_dob_dt>8/1/1965 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Brenda  Smith</sis_int_full_nm>
+         <sis_int_position_cd>Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Brenda.Smith@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services, Inc.</sis_sup1_name>
+         <sis_res1_firstn>Diksha</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Khaleel</sis_res2_firstn>
+         <sis_res2_reln>Sibling</sis_res2_reln>
+         <sis_res3_firstn>Lamziyah</sis_res3_firstn>
+         <sis_res3_reln>Sibling</sis_res3_reln>
+         <sis_cl_cou>Cass</sis_cl_cou>
+         <sis_res1_lastn>Rana</sis_res1_lastn>
+         <sis_res2_lastn>Yonan</sis_res2_lastn>
+         <sis_res3_lastn>Yonan</sis_res3_lastn>
+         <sis_entry_firstn>Brenda</sis_entry_firstn>
+         <sis_entry_lastn>Smith</sis_entry_lastn>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>site</sis_cl_set>
+         <sis_startTime>09:00:00</sis_startTime>
+         <sis_endTime>11:00:00</sis_endTime>
+         <Prof1_Notes>Basima does not speak English and the language spoken at home is.  Basima's sister and brother were there as responders.  Basima's sister speaks little English and supports her at home and at her day program.    Her brother was there to interpret and as a responder as he also provides Basima support at home.  Miriam Mohamed, was there as a DSP in her day program and to interpret any information Basmia's brother did not understand due to language.</Prof1_Notes>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8007" assignedLoginId="mharing" dateUpdated="6/24/2016 9:08:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="384503" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:13:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mharing</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>313472</sis_track_num>
+         <sis_completed_dt>4/29/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Paul</sis_cl_last_nm>
+         <sis_cl_first_nm>Ashley</sis_cl_first_nm>
+         <sis_cl_addr_line1>204 E. Gateway Trail</sis_cl_addr_line1>
+         <sis_cl_city>Mandan</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58554</sis_cl_zip>
+         <sis_cl_medicaidNum>313472</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>7/10/1996 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mike  Haring</sis_int_full_nm>
+         <sis_int_position_cd>SIS</sis_int_position_cd>
+         <sis_int_agency_nm>The Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Mike.Haring@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau St.</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Options, Inc.</sis_sup1_name>
+         <sis_sup1_reln>Service prov.</sis_sup1_reln>
+         <sis_res1_firstn>Sara</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Bri</sis_res2_firstn>
+         <sis_res2_reln>Service Provider</sis_res2_reln>
+         <sis_res3_firstn>Alexandra</sis_res3_firstn>
+         <sis_res3_reln>Direct Support Staff</sis_res3_reln>
+         <sis_cl_cou>Morton</sis_cl_cou>
+         <sis_sup1_phone>7012232417</sis_sup1_phone>
+         <sis_res1_lastn>Holty</sis_res1_lastn>
+         <sis_res2_lastn>Draovitch</sis_res2_lastn>
+         <sis_res3_lastn>Smith</sis_res3_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_res3_lang>English</sis_res3_lang>
+         <sis_entry_firstn>Mike</sis_entry_firstn>
+         <sis_entry_lastn>Haring</sis_entry_lastn>
+         <sis_cl_phone>7016630285</sis_cl_phone>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>2</sis_cl_attend>
+         <sis_startTime>13:00:00</sis_startTime>
+         <sis_endTime>15:15:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8007" assignedLoginId="mharing" dateUpdated="6/24/2016 9:08:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="384608" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:13:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mharing</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>191159</sis_track_num>
+         <sis_completed_dt>4/29/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Winterroth</sis_cl_last_nm>
+         <sis_cl_first_nm>Melinda</sis_cl_first_nm>
+         <sis_cl_addr_line1>4909 ShelburneSt.</sis_cl_addr_line1>
+         <sis_cl_city>Bismarck</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58503</sis_cl_zip>
+         <sis_cl_medicaidNum>191159</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>3/20/1981 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mike  Haring</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>The Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Mike.Haring@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau St.</sis_int_addr_line1>
+         <sis_int_city>Pierrre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Options, Inc.</sis_sup1_name>
+         <sis_sup1_reln>Service prov.</sis_sup1_reln>
+         <sis_res1_firstn>Melinda</sis_res1_firstn>
+         <sis_res1_reln>Self</sis_res1_reln>
+         <sis_res2_firstn>Joanne</sis_res2_firstn>
+         <sis_res2_reln>Parent</sis_res2_reln>
+         <sis_res3_firstn>Melanie</sis_res3_firstn>
+         <sis_res3_reln>Service Coordinator or case manager</sis_res3_reln>
+         <sis_cl_cou>Morton</sis_cl_cou>
+         <sis_sup1_phone>7012232417</sis_sup1_phone>
+         <sis_res1_lastn>Winterroth</sis_res1_lastn>
+         <sis_res2_lastn>Winterroth</sis_res2_lastn>
+         <sis_res3_lastn>Gartner</sis_res3_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_res3_lang>English</sis_res3_lang>
+         <sis_entry_firstn>Mike</sis_entry_firstn>
+         <sis_entry_lastn>Haring</sis_entry_lastn>
+         <sis_cl_phone>7012232417</sis_cl_phone>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>2</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>16:00:00</sis_startTime>
+         <sis_endTime>17:45:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8007" assignedLoginId="mharing" dateUpdated="6/24/2016 9:09:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="384609" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:14:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mharing</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>313350</sis_track_num>
+         <sis_completed_dt>4/30/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Ray</sis_cl_last_nm>
+         <sis_cl_first_nm>Matthew</sis_cl_first_nm>
+         <sis_cl_addr_line1>1130 W. Owens, #206</sis_cl_addr_line1>
+         <sis_cl_city>Bismarck</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58501</sis_cl_zip>
+         <sis_cl_medicaidNum>313350</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>10/31/1995 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mike  Haring</sis_int_full_nm>
+         <sis_int_position_cd>SIS Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>The Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Mike.Haring@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau St.</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Pride Inc.</sis_sup1_name>
+         <sis_sup1_reln>Service prov.</sis_sup1_reln>
+         <sis_res1_firstn>Matthew</sis_res1_firstn>
+         <sis_res1_reln>Self</sis_res1_reln>
+         <sis_res2_firstn>Terry</sis_res2_firstn>
+         <sis_res2_reln>Parent</sis_res2_reln>
+         <sis_res3_firstn>Vanessa</sis_res3_firstn>
+         <sis_res3_reln>Service Coordinator or case manager</sis_res3_reln>
+         <sis_cl_cou>Morton</sis_cl_cou>
+         <sis_sup1_phone>7012587838</sis_sup1_phone>
+         <sis_res1_lastn>Ray</sis_res1_lastn>
+         <sis_res2_lastn>Ray</sis_res2_lastn>
+         <sis_res3_lastn>Deibert</sis_res3_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_res3_lang>English</sis_res3_lang>
+         <sis_entry_firstn>Mike</sis_entry_firstn>
+         <sis_entry_lastn>Haring</sis_entry_lastn>
+         <sis_cl_phone>7012223978</sis_cl_phone>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>13:00:00</sis_startTime>
+         <sis_endTime>14:45:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="6308" assignedLoginId="BSmith" dateUpdated="6/24/2016 9:10:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="497867" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:14:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>BSmith</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>396828</sis_track_num>
+         <sis_completed_dt>6/25/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Lovejoy</sis_cl_last_nm>
+         <sis_cl_first_nm>Carlye</sis_cl_first_nm>
+         <sis_cl_addr_line1>112 6th St. E. </sis_cl_addr_line1>
+         <sis_cl_city>Finley</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58230</sis_cl_zip>
+         <sis_cl_medicaidNum>000396828</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>5/20/1981 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Brenda  Smith</sis_int_full_nm>
+         <sis_int_position_cd>Assessment</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Brenda.Smith@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services, Inc.</sis_sup1_name>
+         <sis_res1_firstn>Carlye</sis_res1_firstn>
+         <sis_res1_reln>Self</sis_res1_reln>
+         <sis_res2_firstn>Carol</sis_res2_firstn>
+         <sis_res2_reln>Parent/Legal Guardian</sis_res2_reln>
+         <sis_res3_firstn>Kelsey</sis_res3_firstn>
+         <sis_res3_reln>Service Coordinator or case manager</sis_res3_reln>
+         <sis_cl_cou>Steele</sis_cl_cou>
+         <sis_res1_lastn>Lovejoy</sis_res1_lastn>
+         <sis_res2_lastn>Lovejoy</sis_res2_lastn>
+         <sis_res3_lastn>Kylo</sis_res3_lastn>
+         <sis_entry_firstn>Brenda</sis_entry_firstn>
+         <sis_entry_lastn>Smith</sis_entry_lastn>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>other</sis_cl_set>
+         <sis_startTime>09:30:00</sis_startTime>
+         <sis_endTime>11:40:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="6308" assignedLoginId="BSmith" dateUpdated="6/24/2016 9:11:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="497868" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="JOtt" lastModifiedByUserId="7383" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:15:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>BSmith</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>223319</sis_track_num>
+         <sis_completed_dt>6/25/2014 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Harpestad</sis_cl_last_nm>
+         <sis_cl_first_nm>Tim</sis_cl_first_nm>
+         <sis_cl_addr_line1>357 3rd St. SW</sis_cl_addr_line1>
+         <sis_cl_city>Mayville</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58257</sis_cl_zip>
+         <sis_cl_medicaidNum>000223319</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>10/25/1989 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Brenda  Smith</sis_int_full_nm>
+         <sis_int_position_cd>Assessor</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>Brenda.Smith@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>Community Living Services, Inc.</sis_sup1_name>
+         <sis_res1_firstn>Naomi</sis_res1_firstn>
+         <sis_res1_reln>Parent</sis_res1_reln>
+         <sis_res2_firstn>Kelsey</sis_res2_firstn>
+         <sis_res2_reln>Service Coordinator or case manager</sis_res2_reln>
+         <sis_res3_firstn>Rick</sis_res3_firstn>
+         <sis_res3_reln>Parent</sis_res3_reln>
+         <sis_cl_cou>Traill</sis_cl_cou>
+         <sis_res1_lastn>Harpestad</sis_res1_lastn>
+         <sis_res2_lastn>Kylo</sis_res2_lastn>
+         <sis_res3_lastn>Harpestad</sis_res3_lastn>
+         <sis_entry_firstn>Brenda</sis_entry_firstn>
+         <sis_entry_lastn>Smith</sis_entry_lastn>
+         <sis_why>first</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_startTime>13:00:00</sis_startTime>
+         <sis_endTime>15:15:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8014" assignedLoginId="mholliday" dateUpdated="5/27/2016 6:21:00 PM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="630725" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="ddusseau" lastModifiedByUserId="6667" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:15:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mholliday</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>305453</sis_track_num>
+         <sis_completed_dt>5/5/2016 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Morningstar</sis_cl_last_nm>
+         <sis_cl_first_nm>Eric</sis_cl_first_nm>
+         <sis_cl_addr_line1>1109 9th Ave NW</sis_cl_addr_line1>
+         <sis_cl_city>Minot</sis_cl_city>
+         <sis_cl_sex_cd>M</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58701</sis_cl_zip>
+         <sis_cl_medicaidNum>305453</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>10/4/1991 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mary Lou  Holliday</sis_int_full_nm>
+         <sis_int_position_cd>Ms.</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>MaryLou.holliday@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>REM ND Inc</sis_sup1_name>
+         <sis_res1_firstn>Michelle</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Jeremy</sis_res2_firstn>
+         <sis_res2_reln>Residential Services Staff</sis_res2_reln>
+         <sis_res3_firstn>Albert</sis_res3_firstn>
+         <sis_res3_reln>Residential Services Manager</sis_res3_reln>
+         <sis_cl_cou>Ward</sis_cl_cou>
+         <sis_res1_lastn>O'Connor</sis_res1_lastn>
+         <sis_res2_lastn>Finch</sis_res2_lastn>
+         <sis_res3_lastn>Omambia</sis_res3_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_res3_lang>English</sis_res3_lang>
+         <sis_entry_firstn>Mary Lou</sis_entry_firstn>
+         <sis_entry_lastn>Holliday</sis_entry_lastn>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>regular</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_startTime>13:00:00</sis_startTime>
+         <sis_endTime>15:05:00</sis_endTime>
+         <Prof1_Notes>Eric is a 24 year-old male who is mobile and restless.  He is staffed one-on-one to support his emotional needs (anxiety) and to prevent  elopement and injury to others.  Eric is non-verbal and does not interact or socialize with others.  Keeping him busy burns off his excess energy.  He likes to walk in the park or the mall.  </Prof1_Notes>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+   <Assessment archived="False" assigned="8014" assignedLoginId="mholliday" dateUpdated="5/31/2016 10:25:00 AM" deleted="False" enterprise="59" enterpriseName="North Dakota" formId="1" formResultId="630907" group="292" groupName="North Dakota" identifier="SIS-A" lastModifiedByLoginId="ddusseau" lastModifiedByUserId="6667" locked="True" recipientId="0" reviewStatus="255" statusChangeDate="6/24/2016 9:15:00 AM" statusId="2" statusText="COMPLETED">
+      <ProfileSection identifier="Profile">
+         <sis_int_id>mholliday</sis_int_id>
+         <sis_prof_training>False</sis_prof_training>
+         <sis_track_num>175181</sis_track_num>
+         <sis_completed_dt>5/16/2016 12:00:00 AM</sis_completed_dt>
+         <sis_cl_last_nm>Harmon</sis_cl_last_nm>
+         <sis_cl_first_nm>Kim</sis_cl_first_nm>
+         <sis_cl_addr_line1>500 36th Ave NE #112</sis_cl_addr_line1>
+         <sis_cl_city>Minot</sis_cl_city>
+         <sis_cl_sex_cd>F</sis_cl_sex_cd>
+         <sis_cl_st>ND</sis_cl_st>
+         <sis_cl_zip>58703</sis_cl_zip>
+         <sis_cl_medicaidNum>175181</sis_cl_medicaidNum>
+         <sis_cl_dob_dt>11/21/1989 12:00:00 AM</sis_cl_dob_dt>
+         <sis_int_full_nm>Mary Lou  Holliday</sis_int_full_nm>
+         <sis_int_position_cd>Ms.</sis_int_position_cd>
+         <sis_int_agency_nm>Rushmore Group</sis_int_agency_nm>
+         <sis_int_phone_num>6052248899</sis_int_phone_num>
+         <sis_int_email>MaryLou.holliday@rushmore-group.com</sis_int_email>
+         <sis_int_addr_line1>316 S. Coteau</sis_int_addr_line1>
+         <sis_int_city>Pierre</sis_int_city>
+         <sis_int_st>SD</sis_int_st>
+         <sis_int_zip>57501</sis_int_zip>
+         <sis_sup1_name>C.O.R.E.S.</sis_sup1_name>
+         <sis_res1_firstn>Katie</sis_res1_firstn>
+         <sis_res1_reln>Service Coordinator or case manager</sis_res1_reln>
+         <sis_res2_firstn>Leigha</sis_res2_firstn>
+         <sis_res2_reln>Residential Services Staff</sis_res2_reln>
+         <sis_cl_cou>Ward</sis_cl_cou>
+         <sis_res1_lastn>Waterud</sis_res1_lastn>
+         <sis_res2_lastn>Munyer</sis_res2_lastn>
+         <sis_res1_lang>English</sis_res1_lang>
+         <sis_res2_lang>English</sis_res2_lang>
+         <sis_entry_firstn>Mary Lou</sis_entry_firstn>
+         <sis_entry_lastn>Holliday</sis_entry_lastn>
+         <sis_cl_lang>English</sis_cl_lang>
+         <sis_why>regular</sis_why>
+         <sis_cl_attend>1</sis_cl_attend>
+         <sis_cl_set>site</sis_cl_set>
+         <sis_startTime>13:00:00</sis_startTime>
+         <sis_endTime>15:02:00</sis_endTime>
+      </ProfileSection>
+      <ScoreSection identifier="SIS-A Scores">
+         <sis_version>ClassicAdultSIS</sis_version>
+      </ScoreSection>
+   </Assessment>
+</Assessments>
