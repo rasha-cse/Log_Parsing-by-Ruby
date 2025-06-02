@@ -12,7 +12,7 @@ require 'roo'
 puts "Enter the desired string:"
 uri=gets.chomp            # 30353190(33), 33572523(114)   #Saving Therap Client for
 
-file_name= "state-nd.2016-03-27.log" #"therap.log" #"test.txt"
+file_name= "r-r.2016-03-27.log" #"therap.log" #"test.txt"
 #file_name= "nd_18_19_dec.log" #"therap.log" #"test.txt"
 
 #file_name= "all_fx_se" #"therap.log"
