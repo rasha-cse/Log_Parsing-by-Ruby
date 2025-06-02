@@ -12,7 +12,7 @@ require 'roo'
 puts "Enter the desired string:"
 #uri=gets.chomp            # 30353190(33), 33572523(114)   #Saving Therap Client for
 
-file_name= "state-nd.2016-03-26.log" #"therap.log" #"test.txt"
+file_name= "r-r.2016-03-26.log" #"therap.log" #"test.txt"
 #file_name= "nd_18_19_dec.log" #"therap.log" #"test.txt"
 
 #file_name= "all_fx_se" #"therap.log"
@@ -33,7 +33,7 @@ File.foreach(file_name) do |line|                                        # readi
   # end
 
   #if /#{uri}/.match(line)
-  if /grails.app.controllers.net.therap.states.par.ParScoreMigrationController:-1/.match(line) && /INFO  -/.match(line) && /SUCCESS/.match(line) && /PAR_ID=/.match(line)  #&&/2015-02-03	11:19:05/.match(line)                    # finding matches
+  if /grails.app.controllers.net.therap.states.par.ParScoreMigrationController:-1/.match(line) && /INFO  -/.match(line) && /SUCCESS/.match(line) && /rid=/.match(line)  #&&/2015-02-03	11:19:05/.match(line)                    # finding matches
     #puts "#{counter}." + line.split(" ").fetch(7)  # for "all_fx_se"
     #puts "#{counter}." + line.split(" ").fetch(14)  # for therap.log
     #puts "#{counter}." + line
