@@ -2,7 +2,7 @@
 puts "Enter the desired string:"
 uri=gets.chomp            # 30353190(33), 33572523(114)   #Saving Therap Client for
 
-file_name= "16.state-nd.log.2015-12-09" #"therap.log" #"test.txt"
+file_name= "16.r-r.log.2015-12-09" #"therap.log" #"test.txt"
 #file_name= "all_fx_se" #"therap.log"
 
 counter = 1
